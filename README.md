@@ -60,7 +60,7 @@ The purpose of a recommendation system basically is to search for content that w
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Books-Recommender-System-Using-Machine-Learning
+https://github.com/katrehitendra/recommendation-system.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
