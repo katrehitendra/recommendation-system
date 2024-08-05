@@ -6,4 +6,4 @@ langchain-community
 langchain-core
 langchain-chroma
 langchain-text-splitters
-# pandas
+pandas
